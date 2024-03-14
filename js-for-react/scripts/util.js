@@ -14,3 +14,4 @@ console.log(greeting1);
 const greeting2 = createGreeting("Manuel", "Hello, What's up?");
 
 console.log(greeting2);
+
